@@ -1,0 +1,36 @@
+Anuj Kumar Varshney
+S/o
+Gyan Prakash Varshney
+19/339(15-s), Bapu Nagar Bank Colony,
+Aligarh - Uttar Pradesh 
+ZIP --- 202001
+Infosy 
+Test Engineer
+Tools Knowledge:
+Selenium WebDriver 4.7 --- Web Application Automation
+TestNG --- Test Next Generation
+Log4J 2 --- Logging Library 
+ExtentReports --- Reporting Library 
+JDBC-- MysqlConnector ----> Mysql connection and database Testing
+Postman --- API testing
+RestAssured --- Java Library for Rest API Automation
+Jenkins --- CICD Tool
+Hybrid Framework, Data Driven Framework, BDD Framework, Robot Framework, Keyword Driven Framework
+POI, POI-ooXML --- Excel connection 
+POM--> Project Object Model 
+HTML ---> Scripting Language
+CSS --> Styling language 
+JavaScript ---> Dynamically Typed High Level Language used to make the web pages responsive
+Cypress ---> Everything on browser automation, uses JavaScript 
+Java
+Python 
+Maven 
+Git 
+Linux Commands
+Manual Testing Concepts 
+Jira 
+Docker 
+Kubernetes 
+AWS
+TestCases/TestScenarios
+Projects Explained
